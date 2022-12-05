@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type d -path './*' -print | wc -l
+tail --lines=1 iacta >> iacta
